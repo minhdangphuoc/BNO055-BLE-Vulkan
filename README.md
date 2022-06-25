@@ -75,15 +75,10 @@
 
 ### Triangle
 
-![Triangle](img/Triangle.png)
-![Copies and Motion](img/Motion.gif)
 ![BLE and 2D rotation](img/BLE2DRotation.gif)
-![Uniform Buffer Demo](img/UniformBufferDemo.gif)
-![Pepe Texture](img/pepeTexture.gif)
-![Depth Buffering](img/depthBuffering.gif)
-![Model 1](img/model.gif)
-![MC Cube](img/mccube.gif)
 ![VK BLE Demo](img/VKBLEDemo.gif)
+![VK with Case](img/withcase.gif)
+
 ## Third-party API
 
 - [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE)
